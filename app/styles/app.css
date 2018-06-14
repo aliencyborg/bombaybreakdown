@@ -1,6 +1,7 @@
 html body {
-  background: url('images/bombaybreakdown.jpg');
+  background: url('images/bombay_taxi.jpg');
   background-color: #d5114f;
   background-position: top;
-  background-size: 100vmin 100vmin;
+  background-size: 100%;
+  background-repeat: repeat-y;
 }
